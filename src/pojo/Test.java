@@ -10,6 +10,7 @@ public class Test {
 		student.setAge(27);
 		student.setAddress("安徽省亳州市");
 		System.out.println(student.getAddress());
+		System.out.println("冬天的离别在莫斯科的深夜");
 	}
 
 }
