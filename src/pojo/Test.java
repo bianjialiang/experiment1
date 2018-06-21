@@ -11,6 +11,8 @@ public class Test {
 		student.setAddress("安徽省亳州市");
 		System.out.println(student.getAddress());
 		System.out.println("冬天的离别在莫斯科的深夜");
+
+		System.out.println("请问你一下我为啥这么搓");
 	}
 
 }
